@@ -1,0 +1,14 @@
+{
+  "scenario_id": "diagram-diagram-converter",
+  "package_id": "Aspose.Diagram",
+  "package_version": "26.4.0",
+  "target_framework": "net8.0",
+  "claimed_symbols": [
+    "Aspose.Diagram.LowCode.DiagramConverter",
+    "Aspose.Diagram.LowCode.DiagramConverter.Process",
+    "Aspose.Diagram.LowCode.DiagramConverter.Process"
+  ],
+  "status": "generated",
+  "input_strategy": "programmatic_input",
+  "input_files": []
+}
