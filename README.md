@@ -239,7 +239,7 @@ These examples are validated by the pipeline before publishing:
 | Example reviewer gate | PASS |
 | Gate verdict | `PR_DRY_RUN_READY` |
 
-Generated on: 2026-05-18 11:25 UTC
+Generated on: 2026-05-19 14:32 UTC
 
 ---
 
